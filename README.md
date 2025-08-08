@@ -4,8 +4,6 @@
 <img img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushtechie&label=Profile%20views&color=0e75b6&style=flat" alt="piyushtechie" /> </p>
 
-- 🔭 I’m currently working on **SmartBin Project - Overflow Detection & Civic Issue Reporting**
-
 - 🌱 I’m currently learning **React, DSA(Data Structures & Algorithms)**
 
 - 👯 I’m looking to collaborate on **Full-stack web apps, MERN stack projects**
